@@ -6,8 +6,7 @@
 - 💻 I'm currently building projects to sharpen my frontend fundamentals
 - 🔭 Working on clone projects (Netflix, Uber) to practice UI/UX replication
 - 🌱 Learning JavaScript and modern web development
-- 📫 How to reach me: *(add your email or LinkedIn here)*
-- ⚡ Fun fact: *(add something about yourself)*
+- 📫 How to reach me: *(helly.learn.code@gmail.com / https://www.linkedin.com/in/helly-shah-a30037358/)*
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
