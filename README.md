@@ -24,10 +24,6 @@
 | [Js Project](https://github.com/hellyshahh/Js_project) | JavaScript project built to practice core JS concepts and DOM manipulation | JavaScript |
 | [Guest Book](https://github.com/hellyshahh/Guest_Book) | A simple guest book app for storing and displaying visitor entries | JavaScript |
 
-## 📊 GitHub Stats
-![Helly's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellyshahh&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellyshahh&layout=compact)
-
 ## 🤝 Connect with me
 - LinkedIn: *(https://www.linkedin.com/in/helly-shah-a30037358/)*
 ---
